@@ -39,6 +39,7 @@
 <br />
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ThisMe124&show_icons=true&theme=tokyonight)](https://github.com/ThisMe124)
 [![My Tropyh](https://github-profile-trophy.vercel.app/?username=ThisMe124&row=2&column=3)](https://github.com/ThisMe124)
+[![Stats](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ThisMe124&theme=monokai)](https://github.com/ThisMe124)
 </details>
 <hr>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ThisMe124-ops-cyber" alt="ThisMe124-ops-cyber" /> </p>
