@@ -39,10 +39,10 @@
 <br />
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ThisMe124&show_icons=true&theme=tokyonight)](https://github.com/ThisMe124)
 [![My Tropyh](https://github-profile-trophy.vercel.app/?username=ThisMe124&row=2&column=3)](https://github.com/ThisMe124)
-[![Stats](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ThisMe124&theme=monokai)](https://github.com/ThisMe124)
+[![My Stats](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ThisMe124&theme=monokai)](https://github.com/ThisMe124)
+[![Github Visitor](https://count.getloli.com/get/@:ThisMe124?theme=rule34)](https://github.com/ThisMe124)
 </details>
 <hr>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ThisMe124-ops-cyber" alt="ThisMe124-ops-cyber" /> </p>
-<img alt="Github Visitor" src="https://visitor-badge.glitch.me/badge?page_id=ThisMe124" />
 <img alt="GitHub Followers" src="https://img.shields.io/github/followers/ThisMe124?style=social" />
 <img alt="GitHub Stars" src="https://img.shields.io/github/stars/ThisMe124?style=social" />
