@@ -41,7 +41,7 @@
 [![My Tropyh](https://github-profile-trophy.vercel.app/?username=ThisMe124&row=2&column=3)](https://github.com/ThisMe124)
 [![My Stats](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ThisMe124&theme=monokai)](https://github.com/ThisMe124)
 [![Github Visitor](https://count.getloli.com/get/@:ThisMe124?theme=rule34)](https://github.com/ThisMe124)
-[![Github Metrics](https://metrics.lecoq.io/ThisMe124?template=classic&repositories.forks=true&languages=1&languages.colors=github&languages.threshold=0%25&config.timezone=Asia%2FMakassar)](https://github.com/ThisMe124)
+[![Metrics](https://metrics.lecoq.io/ThisMe124?template=classic&repositories.forks=true&languages=1&languages.colors=github&languages.threshold=0%25&config.timezone=Asia%2FMakassar)](https://github.com/ThisMe124)
 </details>
 <hr>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ThisMe124-ops-cyber" alt="ThisMe124-ops-cyber" /> </p>
