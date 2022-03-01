@@ -1,8 +1,5 @@
 ### ThisMe124
 
-<a href="https://discord.gg/null">
-  <img align="left" alt="Discord Server" width="16px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/discord.svg" />
-</a>
  <a href="https://github.com/ThisMe124">
   <img align="left" alt="ThisMe124 Github's" width="16px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />
 </a>
