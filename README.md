@@ -20,7 +20,6 @@
 <br />
 
 - I'm is ThisMe124, im live as **Indonesia**, i'm learning a coding
-- I'm 15 years old 
 </details>
 <br />
 <hr>
